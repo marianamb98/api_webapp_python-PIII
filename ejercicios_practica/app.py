@@ -157,7 +157,7 @@ def before_first_request_func():
 
 
 if __name__ == '__main__':
-    print('Inove@Server start!')
+    print('Servidor Iniciado.')
 
     # Lanzar server
     app.run(host="127.0.0.1", port=5000)
